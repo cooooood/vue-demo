@@ -1,0 +1,9 @@
+.color {
+  background: #00a2ae !important;
+}
+
+.position {
+  position: absolute !important;
+  top: 16px;
+  right: 20px;
+}
