@@ -7,7 +7,6 @@
   overflow: hidden;
   height: 100%;
 }
-
 .layout .ivu-layout {
   height: 100%;
 }
